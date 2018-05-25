@@ -1,5 +1,5 @@
 <?php
-echo "this is first statement.";
-echo "this is second statement.";
-echo "this is third statement.";
+echo "this is first statement2.";
+echo "this is second statement2.";
+echo "this is third statement2.";
 ?>
